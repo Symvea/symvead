@@ -1,0 +1,5 @@
+data_directory = "./data"
+listen_address = "0.0.0.0:24096"
+readonly_mounts = []
+auto_create_directories = true
+max_file_size = 1073741824
